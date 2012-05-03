@@ -16,6 +16,15 @@
 		B55AB5D81551939000DB489F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B55AB5D71551939000DB489F /* ViewController.m */; };
 		B55AB5DB1551939000DB489F /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5D91551939000DB489F /* ViewController_iPhone.xib */; };
 		B55AB5DE1551939000DB489F /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5DC1551939000DB489F /* ViewController_iPad.xib */; };
+		B55AB5ED155193A100DB489F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5E5155193A100DB489F /* 1.png */; };
+		B55AB5EE155193A100DB489F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5E6155193A100DB489F /* 2.png */; };
+		B55AB5EF155193A100DB489F /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5E7155193A100DB489F /* 3.png */; };
+		B55AB5F0155193A100DB489F /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5E8155193A100DB489F /* 4.png */; };
+		B55AB5F1155193A100DB489F /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5E9155193A100DB489F /* 5.png */; };
+		B55AB5F2155193A100DB489F /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5EA155193A100DB489F /* 6.png */; };
+		B55AB5F3155193A100DB489F /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5EB155193A100DB489F /* 7.png */; };
+		B55AB5F4155193A100DB489F /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5EC155193A100DB489F /* 8.png */; };
+		B55AB5F81551CE8400DB489F /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = B55AB5F71551CE8400DB489F /* 0.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +32,25 @@
 		B55AB5C41551939000DB489F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B55AB5C61551939000DB489F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B55AB5C81551939000DB489F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		B55AB5CC1551939000DB489F /* Renewal-Info.plist */ = {isa = PBXFileReference; path = "Renewal-Info.plist"; sourceTree = "<group>"; };
+		B55AB5CC1551939000DB489F /* Renewal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Renewal-Info.plist"; sourceTree = "<group>"; };
 		B55AB5CE1551939000DB489F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B55AB5D01551939000DB489F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B55AB5D21551939000DB489F /* Renewal-Prefix.pch */ = {isa = PBXFileReference; path = "Renewal-Prefix.pch"; sourceTree = "<group>"; };
-		B55AB5D31551939000DB489F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		B55AB5D21551939000DB489F /* Renewal-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Renewal-Prefix.pch"; sourceTree = "<group>"; };
+		B55AB5D31551939000DB489F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B55AB5D41551939000DB489F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B55AB5D61551939000DB489F /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		B55AB5D61551939000DB489F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B55AB5D71551939000DB489F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B55AB5DA1551939000DB489F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		B55AB5DD1551939000DB489F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
+		B55AB5E5155193A100DB489F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		B55AB5E6155193A100DB489F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		B55AB5E7155193A100DB489F /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		B55AB5E8155193A100DB489F /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		B55AB5E9155193A100DB489F /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		B55AB5EA155193A100DB489F /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		B55AB5EB155193A100DB489F /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		B55AB5EC155193A100DB489F /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		B55AB5F71551CE8400DB489F /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +97,7 @@
 		B55AB5CA1551939000DB489F /* Renewal */ = {
 			isa = PBXGroup;
 			children = (
+				B55AB5E41551939700DB489F /* Tiles */,
 				B55AB5D31551939000DB489F /* AppDelegate.h */,
 				B55AB5D41551939000DB489F /* AppDelegate.m */,
 				B55AB5D61551939000DB489F /* ViewController.h */,
@@ -99,6 +118,22 @@
 				B55AB5D21551939000DB489F /* Renewal-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B55AB5E41551939700DB489F /* Tiles */ = {
+			isa = PBXGroup;
+			children = (
+				B55AB5F71551CE8400DB489F /* 0.png */,
+				B55AB5E5155193A100DB489F /* 1.png */,
+				B55AB5E6155193A100DB489F /* 2.png */,
+				B55AB5E7155193A100DB489F /* 3.png */,
+				B55AB5E8155193A100DB489F /* 4.png */,
+				B55AB5E9155193A100DB489F /* 5.png */,
+				B55AB5EA155193A100DB489F /* 6.png */,
+				B55AB5EB155193A100DB489F /* 7.png */,
+				B55AB5EC155193A100DB489F /* 8.png */,
+			);
+			name = Tiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +190,15 @@
 				B55AB5CF1551939000DB489F /* InfoPlist.strings in Resources */,
 				B55AB5DB1551939000DB489F /* ViewController_iPhone.xib in Resources */,
 				B55AB5DE1551939000DB489F /* ViewController_iPad.xib in Resources */,
+				B55AB5ED155193A100DB489F /* 1.png in Resources */,
+				B55AB5EE155193A100DB489F /* 2.png in Resources */,
+				B55AB5EF155193A100DB489F /* 3.png in Resources */,
+				B55AB5F0155193A100DB489F /* 4.png in Resources */,
+				B55AB5F1155193A100DB489F /* 5.png in Resources */,
+				B55AB5F2155193A100DB489F /* 6.png in Resources */,
+				B55AB5F3155193A100DB489F /* 7.png in Resources */,
+				B55AB5F4155193A100DB489F /* 8.png in Resources */,
+				B55AB5F81551CE8400DB489F /* 0.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
